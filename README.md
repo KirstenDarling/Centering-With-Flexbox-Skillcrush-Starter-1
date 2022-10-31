@@ -1,6 +1,6 @@
 # Centering With Flexbox Skillcrush Starter #1
 
-### View the [live project here.](https://kirstendarling.github.io/6.02-206-center-flexbox-starter/)
+### View the [live project here.](https://kirstendarling.github.io/Centering-With-Flexbox-Skillcrush-Starter-1/)
 
 ### Screenshot
 
